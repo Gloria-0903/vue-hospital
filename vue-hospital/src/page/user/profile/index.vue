@@ -1,6 +1,6 @@
 <template>
     <div>
-       账号信息
+       账号信息(暂未开发)
     </div>
 </template>
 
